@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527919741531",
+    "project_id": "tourbookingapp-2c8a1",
+    "storage_bucket": "tourbookingapp-2c8a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527919741531:android:a77457128e48044c501d7e",
+        "android_client_info": {
+          "package_name": "com.flutter_tour_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcdITnMfZ6pZCFrRxUade09Sw7KYNmL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
